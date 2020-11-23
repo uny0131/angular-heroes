@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   API: 'api',
-  Key: '<Secret Key>'
+  Key: '<Secre'
 };
 
 /*
